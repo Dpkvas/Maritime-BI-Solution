@@ -6,7 +6,7 @@
 
 ## 📄 Project Overview
 
-This project simulates an end-to-end BI solution for maritime safety and compliance reporting. It mimics real-world responsibilities of a BI Analyst supporting Carnival UK’s Maritime & Sustainability team, focusing on KPIs such as CHESS compliance, BBSC assessments, ELT ship visits, and incident tracking across fleet and shore teams.
+This project simulates an end-to-end BI solution for maritime safety and compliance reporting. It mimics real-world responsibilities of a BI Analyst supporting  Maritime & Sustainability team, focusing on KPIs such as CHESS compliance, BBSC assessments, ELT ship visits, and incident tracking across fleet and shore teams.
 
 The project demonstrates the full lifecycle: data warehousing (Snowflake), data modelling and analysis (Power BI), and role-based access control (RLS and masking). It is designed to showcase scalable BI architecture and dashboard design aligned with operational performance and compliance monitoring.
 
