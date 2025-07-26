@@ -80,9 +80,9 @@ maritime-bi-solution/
 
 ## 📊 Data Model
 
-* **Fact\_Incidents**
-* **Fact\_ComplianceScores**
-* **Fact\_ShipVisits**
+* **Fact\_Incidents** – Tracks all reported incidents on ships including type, severity, reporting team, and resolution details. Supports CHESS reporting.
+* **Fact\_ComplianceScores** – Contains periodic compliance audit results by ship and compliance type (CHESS, BBSC, HESS), used to monitor performance and flag risks.
+* **Fact\_ShipVisits** – Records Executive Leadership Team (ELT) visits to ships, outcomes, and BBSC-related observations or feedback.
 * **Dim\_Ship**, **Dim\_Date**, **Dim\_ComplianceType**, etc.
 
 Structured as a **star schema** for optimal query performance and DAX efficiency.
