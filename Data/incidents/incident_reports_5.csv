@@ -1,0 +1,51 @@
+incident_id,incident_type,ship_name,reported_date,resolved_date,severity_level,reported_by_team,status
+INC04001,Crew Injury,Voyager,2024-11-13,2024-11-24,Medium,Safety,In Progress
+INC04002,Mechanical Failure,Aurora,2025-05-29,2025-06-19,Low,Engine Room,In Progress
+INC04003,Power Loss,Mariner,2025-03-10,2025-04-04,Critical,Medical,Open
+INC04004,Mechanical Failure,Mariner,2024-08-29,2024-09-13,Critical,Engine Room,Escalated
+INC04005,Crew Injury,Explorer,2025-02-14,2025-03-08,Low,Safety,Open
+INC04006,Mechanical Failure,Odyssey,2024-11-27,2024-12-18,High,Engine Room,Escalated
+INC04007,Mechanical Failure,Explorer,2024-11-24,2024-12-11,Low,Engine Room,Resolved
+INC04008,Power Loss,Voyager,2024-08-25,2024-08-27,Critical,Engine Room,Open
+INC04009,Fire,Aurora,2025-02-16,2025-02-26,Medium,Navigation,Open
+INC04010,Fire,Voyager,2025-02-15,2025-03-09,Critical,Safety,Open
+INC04011,Power Loss,Odyssey,2024-09-11,2024-09-24,Low,Navigation,Escalated
+INC04012,Power Loss,Aurora,2025-05-11,2025-05-26,Medium,Deck Crew,Open
+INC04013,Crew Injury,Odyssey,2025-01-14,2025-01-27,Medium,Safety,Resolved
+INC04014,Collision,Voyager,2025-04-17,2025-04-20,Medium,Safety,Resolved
+INC04015,Fire,Mariner,2024-08-30,2024-09-21,Critical,Deck Crew,Escalated
+INC04016,Crew Injury,Voyager,2024-10-27,,Medium,Safety,In Progress
+INC04017,Fire,Explorer,2025-04-07,2025-04-12,Low,Navigation,Escalated
+INC04018,Fire,Odyssey,2024-11-16,2024-12-12,Medium,Engine Room,Open
+INC04019,Crew Injury,Mariner,2024-09-12,2024-09-26,Low,Medical,Resolved
+INC04020,Power Loss,Voyager,2025-03-02,2025-03-03,Medium,Deck Crew,Escalated
+INC04021,Fire,Explorer,2024-08-29,,Low,Medical,Open
+INC04022,Fire,Odyssey,2025-05-16,2025-05-21,Medium,Safety,Open
+INC04023,Crew Injury,Mariner,2025-07-09,2025-07-14,Low,Deck Crew,In Progress
+INC04024,Mechanical Failure,Aurora,2024-10-26,,Medium,Deck Crew,In Progress
+INC04025,Collision,Odyssey,2024-08-19,2024-09-18,Medium,Medical,Escalated
+INC04026,Collision,Voyager,2025-07-15,2025-08-04,Critical,Navigation,Escalated
+INC04027,Mechanical Failure,Mariner,2024-07-31,,Medium,Navigation,Escalated
+INC04028,Crew Injury,Aurora,2025-05-17,2025-05-23,High,Engine Room,Escalated
+INC04029,Fire,Aurora,2024-09-22,,Medium,Safety,Escalated
+INC04030,Mechanical Failure,Aurora,2025-05-04,2025-05-31,Medium,Safety,Escalated
+INC04031,Mechanical Failure,Voyager,2025-01-27,2025-02-05,Medium,Medical,Resolved
+INC04032,Crew Injury,Aurora,2024-08-17,2024-09-07,Critical,Navigation,In Progress
+INC04033,Collision,Mariner,2024-12-19,2025-01-10,Low,Engine Room,Resolved
+INC04034,Collision,Voyager,2025-06-19,2025-06-21,Medium,Engine Room,Resolved
+INC04035,Power Loss,Voyager,2025-06-26,2025-07-14,High,Navigation,Open
+INC04036,Fire,Odyssey,2025-01-02,2025-01-09,Critical,Safety,Open
+INC04037,Mechanical Failure,Mariner,2025-06-20,,Medium,Safety,Resolved
+INC04038,Mechanical Failure,Odyssey,2024-08-11,,Low,Deck Crew,Escalated
+INC04039,Collision,Mariner,2025-02-05,2025-03-01,Critical,Safety,Escalated
+INC04040,Crew Injury,Odyssey,2025-06-24,2025-07-15,Medium,Safety,In Progress
+INC04041,Crew Injury,Odyssey,2025-01-26,2025-01-30,Low,Deck Crew,Open
+INC04042,Mechanical Failure,Voyager,2024-08-18,2024-09-10,Medium,Navigation,In Progress
+INC04043,Collision,Odyssey,2025-07-15,,Medium,Deck Crew,Open
+INC04044,Collision,Explorer,2025-02-09,,High,Navigation,Resolved
+INC04045,Mechanical Failure,Mariner,2025-04-02,2025-04-06,High,Engine Room,In Progress
+INC04046,Mechanical Failure,Odyssey,2025-02-02,2025-02-25,Critical,Engine Room,Escalated
+INC04047,Fire,Voyager,2024-10-13,2024-10-14,High,Navigation,In Progress
+INC04048,Mechanical Failure,Odyssey,2025-05-15,,Critical,Navigation,In Progress
+INC04049,Crew Injury,Voyager,2024-08-20,2024-09-12,Medium,Safety,In Progress
+INC04050,Fire,Aurora,2025-02-02,2025-02-14,Low,Deck Crew,Escalated
